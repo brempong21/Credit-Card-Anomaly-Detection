@@ -9,11 +9,6 @@ The dataset is available on Kaggle and can be accessed using the following link:
 
 The dataset consists of the following files:
 - `creditcard.csv`: CSV file containing credit card transaction data. It includes features such as transaction amount, time, and various other anonymized features.
-
-## Code
-
-The code for credit card anomaly detection is not provided in this repository. However, you can use this dataset with various machine learning or deep learning algorithms for anomaly detection purposes. Some common approaches include Isolation Forest, One-Class SVM, Autoencoders, and clustering algorithms.
-
 ## Usage
 
 1. Download the dataset from the provided Kaggle link.
